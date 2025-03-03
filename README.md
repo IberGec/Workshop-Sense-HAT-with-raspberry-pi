@@ -17,4 +17,3 @@ Enhance your expertise in **embedded systems, IoT, and robotics** with these car
 ## 🔍 Apply Your Knowledge & Innovate  
 Use these resources to reinforce concepts from workshops and sessions, gain hands-on experience, and take your projects to new heights.  
 
-**#RaspberryPi #IoT #EmbeddedSystems #Robotics #TechWorkshops**  
