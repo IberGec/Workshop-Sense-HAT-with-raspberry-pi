@@ -5,6 +5,7 @@ Enhance your expertise in **embedded systems, IoT, and robotics** with these car
 ## 📌 Hands-on Learning from Sessions & Workshops  
 - **[Raspberry Pi Project Hub](https://projects.raspberrypi.org/en/projects)** – Explore a collection of step-by-step project guides.  
 - **[Astro Pi Mission Zero](https://projects.raspberrypi.org/en/projects/astro-pi-mission-zero)** – Participate in a hands-on coding challenge where your program runs in space.  
+- **[Mission Zero Quick Start](http://rpf.io/mzcode)** – A fast-track guide to writing and submitting your code for Astro Pi.  
 - **[Sense HAT Integration](https://projects.raspberrypi.org/en/projects/getting-started-with-the-sense-hat)** – Learn to work with real-time sensor data.  
 - **[Raspberry Pi Pico Workshop Guide](http://rpf.io/pico-intro)** – A structured approach to mastering microcontrollers from scratch.  
 - **[Coolest Projects Online](https://online.coolestprojects.org/)** – Showcase your innovations globally.  
@@ -16,4 +17,3 @@ Enhance your expertise in **embedded systems, IoT, and robotics** with these car
 
 ## 🔍 Apply Your Knowledge & Innovate  
 Use these resources to reinforce concepts from workshops and sessions, gain hands-on experience, and take your projects to new heights.  
-
